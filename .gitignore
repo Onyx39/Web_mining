@@ -1,0 +1,5 @@
+# Ignorer les pages HTML générées
+*.html
+
+# Ignorer le dossier lib de pyvis
+**/lib/ 
